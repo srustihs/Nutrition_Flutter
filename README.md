@@ -1,16 +1,11 @@
 # simple_nutrition
 
-A new Flutter project.
+Simple Nutrition App
+A simple Flutter app that helps users keep track of their total calorie consumption. The app displays a list of food items with their respective calorie counts, and allows users to add individual food items to their total calorie count. The app displays the total calorie count at the bottom of the screen.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+Displays a list of food items with their respective calorie counts.
+Allows users to add individual food items to their total calorie count.
+Displays the total calorie count at the bottom of the screen.
