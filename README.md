@@ -6,14 +6,14 @@ A simple Flutter app that helps users keep track of their total calorie consumpt
 ## Getting Started
 
 ## Features
-Displays a list of food items with their respective calorie counts.
-Allows users to add individual food items to their total calorie count.
-Displays the total calorie count at the bottom of the screen.
+* Displays a list of food items with their respective calorie counts.
+* Allows users to add individual food items to their total calorie count.
+* Displays the total calorie count at the bottom of the screen.
 
 ## Prerequisites
-Flutter SDK
-IDE (e.g. Android Studio, VS Code)
-Emulator or physical device
+* Flutter SDK
+* IDE (e.g. Android Studio, VS Code)
+* Emulator or physical device
 
 ## Dependencies
 
